@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# mindmate
-# Hello to mindmate main where we can track your emotion.
-=======
 # 🧠 MindMate — AI Mental Health & Wellness Companion
 
 > *Your personal AI-powered mood analyst and wellness guide*
