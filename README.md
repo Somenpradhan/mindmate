@@ -144,3 +144,4 @@ Contributions are welcome! Feel free to:
 - Powered by *Google Gemini AI*
 - UI framework by *Streamlit*
 - Created with ❤ for mental health awareness
+- Created by Somen Pradhan 😁
